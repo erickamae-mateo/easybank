@@ -33,8 +33,8 @@ You can view the landing page screenshots in screenshots folder.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:https://github.com/erickamae-mateo/easybank
+- Live Site URL: https://erickamae-mateo.github.io/easybank/
 
 ## My process
 
