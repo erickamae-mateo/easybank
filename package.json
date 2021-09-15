@@ -1,0 +1,21 @@
+{
+  "name": "easybank",
+  "version": "1.0.0",
+  "description": "Landing page created using HTML, CSS, JS and SASS",
+  "main": "index.js",
+  "scripts": {
+     "test": "echo \"Error: no test specified\" && exit 1",
+      "scss": "node-sass --watch scss -o assets/css"
+
+  },
+  "author": "Ericka Mae Mateo",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.38.2"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.3.3",
+    "node-sass": "^6.0.1",
+    "postcss-cli": "^8.3.1"
+  }
+}
