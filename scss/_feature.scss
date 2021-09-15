@@ -1,0 +1,62 @@
+.feature{
+	background-color: $lightGrayishBlue;
+	text-align: center;
+
+		@include breakpoints-up(medium){
+			text-align: left;
+		}
+
+	&-intro{
+		margin-bottom: 60px;
+
+		@include breakpoints-up(large){
+			width: 67%;
+		}
+	}
+	&-grid{
+		@include breakpoints-up(medium){
+			display: flex;
+			//if u dont turn wrapping on it's going to fit all the child in one row  
+			flex-wrap: wrap;
+		}
+	}
+
+	&-item{
+		padding: 15px;
+		margin-bottom: 40px;
+
+		@include breakpoints-up(medium){
+			flex: 0 0 50%;
+		}
+		@include breakpoints-up(large){
+			flex: 1;
+		}
+
+	}
+
+	&-icon{
+		margin-bottom: 30px;
+
+		@include breakpoints-up(large){
+			margin-bottom: 44px;
+		}
+	}
+
+	&-title{
+		font-size: 1.25rem;
+		font-weight: 300;
+		line-height: 1.15;
+		color: $darkBlue;
+		margin-bottom: 16px;
+
+		@include breakpoints-up(large){
+			font-size: 1.5rem;
+			margin-bottom: 24px;
+		}
+	}
+
+	&-desc{
+		font-size: 0.875rem;
+		line-height: 1.5;
+	}
+}
