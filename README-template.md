@@ -29,7 +29,11 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-You can view the landing page screenshots in screenshots folder.
+![image](https://user-images.githubusercontent.com/88840940/140470559-b3b94174-0beb-4bf9-a7bd-aa2c34605163.png)
+
+![Screenshot 2021-11-05 at 14-57-05 Frontend Mentor Easybank landing page](https://user-images.githubusercontent.com/88840940/140471418-319250f9-1f57-4d84-86c0-bcee85de88ff.png)
+
+
 
 ### Links
 
@@ -394,17 +398,14 @@ Also, css positioning properties.
 
 ### Useful resources
 
-
-
 - [Jessica Chan](https://coder-coder.com/) - This helped me to create a responsive navbar. She clearly explained the difference between grid and flex, and css position properties. Additionally, I had a great understanding to take mobile first approached in designing a web page/s really liked this pattern and will use it going forward.
 
 - [Jessica Chan](https://www.freecodecamp.org/news/4-reasons-your-z-index-isnt-working-and-how-to-fix-it-coder-coder-6bc05f103e6c/) - This is an amazing article which helped me finally understand z-index and why it isn't working. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Website - [Ericka Mae Mateo](https://www.your-site.com)
-- Frontend Mentor - [@Ericka-MaeMateo](https://www.frontendmentor.io/profile/Ericka-MaeMateo)
-- LinkedIn - [](https://www.linkedin.com/in/ericka-mae-mateo-823a18129/)
+- Frontend Mentor - [@Ericka-MaeMateo](frontendmentor.io/profile/erickamae-mateo)
+- LinkedIn - [Ericka Mae Mateo](https://www.linkedin.com/in/ericka-mae-mateo-823a18129/)
 
 
 
